@@ -1,1 +1,1 @@
-# MCM-ProblemC-Project
+# MCM-ProblemC-Project Q1 Python
