@@ -1,0 +1,3 @@
+season,week,rule_type,n_active,abc_accept_rate,judge_fan_disagreement,spearman_corr
+18,2,percent,9,0.0,,
+28,6,rank,9,0.0026,1.836827408755723,-0.836827408755723
