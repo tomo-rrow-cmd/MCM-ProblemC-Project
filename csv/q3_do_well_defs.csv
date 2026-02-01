@@ -1,0 +1,422 @@
+season,celebrity_name,ballroom_partner,celebrity_age_during_season,celebrity_industry,placement,Tmax_season,exit_week,do_well_main,max_placement_season,do_well_alt_place
+1,Evander Holyfield,Edyta Sliwinska,42,Sports,5,6,3,0.4,6,0.19999999999999996
+1,Joey McIntyre,Ashly DelGrosso,32,Music,3,6,6,1.0,6,0.6
+1,John O'Hurley,Charlotte Jorgensen,50,Entertainment,2,6,6,1.0,6,0.8
+1,Kelly Monaco,Alec Mazo,29,Entertainment,1,6,6,1.0,6,1.0
+1,Rachel Hunter,Jonathan Roberts,35,Fashion,4,6,4,0.6,6,0.4
+1,Trista Sutter,Louis van Amstel,32,Media,6,6,2,0.2,6,0.0
+2,Drew Lachey,Cheryl Burke,29,Music,1,8,8,1.0,10,1.0
+2,George Hamilton,Edyta Sliwinska,66,Entertainment,5,8,6,0.7142857142857143,10,0.5555555555555556
+2,Giselle Fernandez,Jonathan Roberts,44,Other,8,8,3,0.2857142857142857,10,0.2222222222222222
+2,Jerry Rice,Anna Trebunskaya,43,Sports,2,8,8,1.0,10,0.8888888888888888
+2,Kenny Mayne,Andrea Hale,46,Other,10,8,1,0.0,10,0.0
+2,Lisa Rinna,Louis van Amstel,42,Entertainment,4,8,7,0.8571428571428571,10,0.6666666666666667
+2,Master P,Ashly DelGrosso,35,Music,7,8,4,0.42857142857142855,10,0.33333333333333337
+2,Stacy Keibler,Tony Dovolani,26,Sports,3,8,8,1.0,10,0.7777777777777778
+2,Tatum O'Neal,Nick Kosovich,42,Entertainment,9,8,2,0.14285714285714285,10,0.11111111111111116
+2,Tia Carrere,Maksim Chmerkoskiy,39,Entertainment,6,8,5,0.5714285714285714,10,0.4444444444444444
+3,Emmitt Smith,Cheryl Burke,37,Sports,1,10,10,1.0,11,1.0
+3,Harry Hamlin,Ashly DelGrosso,54,Entertainment,9,10,3,0.2222222222222222,11,0.19999999999999996
+3,Jerry Springer,Kym Johnson,62,Media,5,10,7,0.6666666666666666,11,0.6
+3,Joey Lawrence,Edyta Sliwinska,30,Entertainment,3,10,10,1.0,11,0.8
+3,Mario Lopez,Karina Smirnoff,32,Entertainment,2,10,10,1.0,11,0.9
+3,Monique Coleman,Louis van Amstel,25,Entertainment,4,10,8,0.7777777777777778,11,0.7
+3,Sara Evans,Tony Dovolani,35,Music,6,10,10,1.0,11,0.5
+3,Shanna Moakler,Jesse DeSoto,31,Fashion,10,10,2,0.1111111111111111,11,0.09999999999999998
+3,Tucker Carlson,Elena Grinenko,37,Media,11,10,1,0.0,11,0.0
+3,Vivica A. Fox,Nick Kosovich,42,Entertainment,8,10,4,0.3333333333333333,11,0.30000000000000004
+3,Willa Ford,Maksim Chmerkoskiy,25,Music,7,10,5,0.4444444444444444,11,0.4
+4,Apolo Anton Ohno,Julianne Hough,24,Sports,1,10,10,1.0,11,1.0
+4,Billy Ray Cyrus,Karina Smirnoff,45,Music,5,10,8,0.7777777777777778,11,0.6
+4,Clyde Drexler,Elena Grinenko,44,Sports,8,10,5,0.4444444444444444,11,0.30000000000000004
+4,Heather Mills,Jonathan Roberts,39,Fashion,7,10,6,0.5555555555555556,11,0.4
+4,Ian Ziering,Cheryl Burke,42,Entertainment,4,10,9,0.8888888888888888,11,0.7
+4,Joey Fatone,Kym Johnson,30,Music,2,10,10,1.0,11,0.9
+4,John Ratzenberger,Edyta Sliwinska,59,Entertainment,6,10,7,0.6666666666666666,11,0.5
+4,Laila Ali,Maksim Chmerkoskiy,29,Sports,3,10,10,1.0,11,0.8
+4,Leeza Gibbons,Tony Dovolani,50,Media,9,10,4,0.3333333333333333,11,0.19999999999999996
+4,Paulina Porizkova,Alec Mazo,41,Fashion,11,10,2,0.1111111111111111,11,0.0
+4,Shandi Finnessey,Brian Fortuna,28,Other,10,10,3,0.2222222222222222,11,0.09999999999999998
+5,Albert Reed,Anna Trebunskaya,22,Fashion,11,10,2,0.1111111111111111,12,0.09090909090909094
+5,Cameron Mathison,Edyta Sliwinska,38,Entertainment,5,10,8,0.7777777777777778,12,0.6363636363636364
+5,Floyd Mayweather Jr. ,Karina Smirnoff,30,Sports,9,10,4,0.3333333333333333,12,0.2727272727272727
+5,Helio Castroneves,Julianne Hough,32,Other,1,10,10,1.0,12,1.0
+5,Jane Seymour,Tony Dovolani,56,Entertainment,6,10,7,0.6666666666666666,12,0.5454545454545454
+5,Jennie Garth,Derek Hough,35,Entertainment,4,10,9,0.8888888888888888,12,0.7272727272727273
+5,Josie Maran,Alec Mazo,29,Fashion,12,10,1,0.0,12,0.0
+5,Marie Osmond,Jonathan Roberts,47,Music,3,10,10,1.0,12,0.8181818181818181
+5,Mark Cuban,Kym Johnson,49,Media,8,10,5,0.4444444444444444,12,0.36363636363636365
+5,Mel B,Maksim Chmerkoskiy,32,Music,2,10,10,1.0,12,0.9090909090909091
+5,Sabrina Bryan,Mark Ballas,23,Entertainment,7,10,6,0.5555555555555556,12,0.4545454545454546
+5,Wayne Newton,Cheryl Burke,65,Music,10,10,3,0.2222222222222222,12,0.18181818181818177
+6,Adam Carolla,Julianne Hough,43,Other,9,10,4,0.3333333333333333,12,0.2727272727272727
+6,Cristian de la Fuente,Cheryl Burke,34,Entertainment,3,10,10,1.0,12,0.8181818181818181
+6,Jason Taylor,Edyta Sliwinska,33,Sports,2,10,10,1.0,12,0.9090909090909091
+6,Kristi Yamaguchi,Mark Ballas,36,Sports,1,10,10,1.0,12,1.0
+6,Mario,Karina Smirnoff,21,Music,5,10,8,0.7777777777777778,12,0.6363636363636364
+6,Marissa Jaret Winokur,Tony Dovolani,35,Entertainment,4,10,9,0.8888888888888888,12,0.7272727272727273
+6,Marlee Matlin,Fabian Sanchez,42,Entertainment,7,10,6,0.5555555555555556,12,0.4545454545454546
+6,Monica Seles,Jonathan Roberts,34,Sports,11,10,2,0.1111111111111111,12,0.09090909090909094
+6,Penn Jillette,Kym Johnson,53,Other,12,10,2,0.1111111111111111,12,0.0
+6,Priscilla Presley,Louis van Amstel,62,Entertainment,8,10,5,0.4444444444444444,12,0.36363636363636365
+6,Shannon Elizabeth,Derek Hough,34,Entertainment,6,10,7,0.6666666666666666,12,0.5454545454545454
+6,Steve Guttenberg,Anna Trebunskaya,49,Entertainment,10,10,3,0.2222222222222222,12,0.18181818181818177
+7,Brooke Burke,Derek Hough,37,Media,1,10,10,1.0,13,1.0
+7,Cloris Leachman,Corky Ballas,82,Entertainment,7,10,6,0.5555555555555556,13,0.5
+7,Cody Linley,Julianne Hough,18,Entertainment,4,10,9,0.8888888888888888,13,0.75
+7,Jeffrey Ross,Edyta Sliwinska,43,Entertainment,13,10,1,0.0,13,0.0
+7,Kim Kardashian,Mark Ballas,27,Media,11,10,2,0.1111111111111111,13,0.16666666666666663
+7,Lance Bass,Lacey Schwimmer,29,Music,3,10,10,1.0,13,0.8333333333333334
+7,Maurice Greene,Cheryl Burke,34,Sports,5,10,8,0.7777777777777778,13,0.6666666666666667
+7,Misty May-Treanor,Maksim Chmerkoskiy,31,Sports,10,10,10,1.0,13,0.25
+7,Rocco DiSpirito,Karina Smirnoff,41,Media,9,10,4,0.3333333333333333,13,0.33333333333333337
+7,Susan Lucci,Tony Dovolani,61,Entertainment,6,10,7,0.6666666666666666,13,0.5833333333333333
+7,Ted McGinley,Inna Brayer,50,Entertainment,12,10,1,0.0,13,0.08333333333333337
+7,Toni Braxton,Alec Mazo,40,Music,8,10,5,0.4444444444444444,13,0.41666666666666663
+7,Warren Sapp,Kym Johnson,35,Sports,2,10,10,1.0,13,0.9166666666666666
+8,Belinda Carlisle,Jonathan Roberts,50,Music,13,11,2,0.1,13,0.0
+8,Chuck Wicks,Julianne Hough,29,Music,6,11,8,0.7,13,0.5833333333333333
+8,David Alan Grier,Kym Johnson,52,Entertainment,9,11,5,0.4,13,0.33333333333333337
+8,Denise Richards,Maksim Chmerkoskiy,38,Entertainment,12,11,3,0.2,13,0.08333333333333337
+8,Gilles Marini,Cheryl Burke,33,Entertainment,2,11,11,1.0,13,0.9166666666666666
+8,Holly Madison,Dmitry Chaplin,30,Media,11,11,4,0.3,13,0.16666666666666663
+8,Lawrence Taylor,Edyta Sliwinska,50,Sports,7,11,7,0.6,13,0.5
+8,Lil' Kim,Derek Hough,34,Music,5,11,9,0.8,13,0.6666666666666667
+8,Melissa Rycroft,Tony Dovolani,26,Media,3,11,11,1.0,13,0.8333333333333334
+8,Shawn Johnson,Mark Ballas,17,Sports,1,11,11,1.0,13,1.0
+8,Steve Wozniak,Karina Smirnoff,58,Other,10,11,4,0.3,13,0.25
+8,Steve-O,Lacey Schwimmer,34,Media,8,11,6,0.5,13,0.41666666666666663
+8,Ty Murray,Chelsie Hightower,39,Sports,4,11,10,0.9,13,0.75
+9,Aaron Carter,Karina Smirnoff,21,Music,5,10,8,0.7777777777777778,16,0.7333333333333334
+9,Ashley Hamiliton,Edyta Sliwinska,34,Entertainment,16,10,1,0.0,16,0.0
+9,Chuck Liddell,Anna Trebunskaya,39,Sports,11,10,4,0.3333333333333333,16,0.33333333333333337
+9,Debi Mazar,Maksim Chmerkoskiy,45,Entertainment,12,10,3,0.2222222222222222,16,0.2666666666666667
+9,Donny Osmond,Kym Johnson,51,Music,1,10,10,1.0,16,1.0
+9,Joanna Krupa,Derek Hough,30,Fashion,4,10,9,0.8888888888888888,16,0.8
+9,Kathy Ireland,Tony Dovolani,46,Fashion,14,10,2,0.1111111111111111,16,0.1333333333333333
+9,Kelly Osbourne,Louis van Amstel,24,Media,3,10,10,1.0,16,0.8666666666666667
+9,Louie Vito,Chelsie Hightower,21,Sports,8,10,6,0.5555555555555556,16,0.5333333333333333
+9,Macy Gray,Jonathan Roberts,42,Music,15,10,1,0.0,16,0.06666666666666665
+9,Mark Dacascos,Lacey Schwimmer,45,Entertainment,6,10,7,0.6666666666666666,16,0.6666666666666667
+9,Melissa Joan Hart,Mark Ballas,33,Entertainment,9,10,6,0.5555555555555556,16,0.4666666666666667
+9,Michael Irvin,Anna Demidova,43,Sports,7,10,7,0.6666666666666666,16,0.6
+9,Mya,Dmitry Chaplin,29,Music,2,10,10,1.0,16,0.9333333333333333
+9,Natalie Coughlin,Alec Mazo,27,Sports,10,10,5,0.4444444444444444,16,0.4
+9,Tom DeLay,Cheryl Burke,62,Politics,13,10,10,1.0,16,0.19999999999999996
+10,Aiden Turner,Edyta Sliwinska,32,Entertainment,9,10,4,0.3333333333333333,11,0.19999999999999996
+10,Buzz Aldrin,Ashly DelGrosso,80,Other,10,10,3,0.2222222222222222,11,0.09999999999999998
+10,Chad Ochocinco,Cheryl Burke,32,Sports,4,10,9,0.8888888888888888,11,0.7
+10,Erin Andrews,Maksim Chmerkoskiy,32,Other,3,10,10,1.0,11,0.8
+10,Evan Lysacek,Anna Trebunskaya,24,Sports,2,10,10,1.0,11,0.9
+10,Jake Pavelka,Chelsie Hightower,32,Media,7,10,6,0.5555555555555556,11,0.4
+10,Kate Gosselin,Tony Dovolani,35,Media,8,10,5,0.4444444444444444,11,0.30000000000000004
+10,Nicole Scherzinger,Derek Hough,31,Music,1,10,10,1.0,11,1.0
+10,Niecy Nash,Louis van Amstel,40,Entertainment,5,10,8,0.7777777777777778,11,0.6
+10,Pamela Anderson,Damian Whitewood,42,Fashion,6,10,7,0.6666666666666666,11,0.5
+10,Shannen Doherty,Mark Ballas,38,Entertainment,11,10,2,0.1111111111111111,11,0.0
+11,Audrina Patridge,Tony Dovolani,25,Media,7,10,6,0.5555555555555556,12,0.4545454545454546
+11,Brandy,Maksim Chmerkoskiy,31,Music,4,10,9,0.8888888888888888,12,0.7272727272727273
+11,Bristol Palin,Mark Ballas,19,Media,3,10,10,1.0,12,0.8181818181818181
+11,David Hasselhoff,Kym Johnson,58,Entertainment,12,10,1,0.0,12,0.0
+11,Florence Henderson,Corky Ballas,76,Entertainment,8,10,5,0.4444444444444444,12,0.36363636363636365
+11,Jennifer Grey,Derek Hough,50,Entertainment,1,10,10,1.0,12,1.0
+11,Kurt Warner,Anna Trebunskaya,39,Sports,5,10,8,0.7777777777777778,12,0.6363636363636364
+11,Kyle Massey,Lacey Schwimmer,19,Entertainment,2,10,10,1.0,12,0.9090909090909091
+11,Margaret Cho,Louis van Amstel,41,Entertainment,10,10,3,0.2222222222222222,12,0.18181818181818177
+11,Michael Bolton,Chelsie Hightower,57,Music,11,10,2,0.1111111111111111,12,0.09090909090909094
+11,Rick Fox,Cheryl Burke,41,Sports,6,10,7,0.6666666666666666,12,0.5454545454545454
+11,The Situation,Karina Smirnoff,28,Media,9,10,4,0.3333333333333333,12,0.2727272727272727
+12,Chelsea Kane,Mark Ballas,22,Entertainment,3,10,10,1.0,11,0.8
+12,Chris Jericho,Cheryl Burke,40,Sports,7,10,6,0.5555555555555556,11,0.4
+12,Hines Ward,Kym Johnson,35,Sports,1,10,10,1.0,11,1.0
+12,Kendra Wilkinson,Louis van Amstel,25,Media,6,10,7,0.6666666666666666,11,0.5
+12,Kirstie Alley,Maksim Chmerkoskiy,60,Entertainment,2,10,10,1.0,11,0.9
+12,Mike Catherwood,Lacey Schwimmer,32,Other,11,10,2,0.1111111111111111,11,0.0
+12,Petra Nemcova,Dmitry Chaplin,31,Fashion,8,10,5,0.4444444444444444,11,0.30000000000000004
+12,Ralph Macchio,Karina Smirnoff,49,Entertainment,4,10,9,0.8888888888888888,11,0.7
+12,Romeo,Chelsie Hightower,21,Music,5,10,8,0.7777777777777778,11,0.6
+12,Sugar Ray Leonard,Anna Trebunskaya,54,Sports,9,10,4,0.3333333333333333,11,0.19999999999999996
+12,Wendy Williams,Tony Dovolani,46,Media,10,10,3,0.2222222222222222,11,0.09999999999999998
+13,Carson Kressley,Anna Trebunskaya,41,Media,8,10,5,0.4444444444444444,12,0.36363636363636365
+13,Chaz Bono,Lacey Schwimmer,42,Media,7,10,6,0.5555555555555556,12,0.4545454545454546
+13,Chynna Phillips,Tony Dovolani,43,Music,9,10,4,0.3333333333333333,12,0.2727272727272727
+13,David Arquette,Kym Johnson,40,Entertainment,6,10,7,0.6666666666666666,12,0.5454545454545454
+13,Elisabetta Canalis,Valentin Chmerkovskiy,33,Entertainment,11,10,2,0.1111111111111111,12,0.09090909090909094
+13,Hope Solo,Maksim Chmerkoskiy,30,Sports,4,10,9,0.8888888888888888,12,0.7272727272727273
+13,J.R. Martinez,Karina Smirnoff,28,Entertainment,1,10,10,1.0,12,1.0
+13,Kristin Cavallari,Mark Ballas,24,Media,10,10,3,0.2222222222222222,12,0.18181818181818177
+13,Metta World Peace (Ron),Peta Murgatroyd,31,Sports,12,10,1,0.0,12,0.0
+13,Nancy Grace,Tristan MacManus,51,Media,5,10,8,0.7777777777777778,12,0.6363636363636364
+13,Ricki Lake,Derek Hough,42,Entertainment,3,10,10,1.0,12,0.8181818181818181
+13,Rob Kardashian,Cheryl Burke,24,Media,2,10,10,1.0,12,0.9090909090909091
+14,Donald Driver,Peta Murgatroyd,37,Sports,1,10,10,1.0,12,1.0
+14,Gavin DeGraw,Karina Smirnoff,35,Music,9,10,5,0.4444444444444444,12,0.2727272727272727
+14,Gladys Knight,Tristan MacManus,67,Music,8,10,6,0.5555555555555556,12,0.36363636363636365
+14,Jack Wagner,Anna Trebunskaya,52,Entertainment,11,10,3,0.2222222222222222,12,0.09090909090909094
+14,Jaleel White,Kym Johnson,35,Entertainment,7,10,7,0.6666666666666666,12,0.4545454545454546
+14,Katherine Jenkins,Mark Ballas,31,Music,2,10,10,1.0,12,0.9090909090909091
+14,Maria Menounos,Derek Hough,33,Media,4,10,9,0.8888888888888888,12,0.7272727272727273
+14,Martina Navratilova,Tony Dovolani,55,Sports,12,10,2,0.1111111111111111,12,0.0
+14,Melissa Gilbert,Maksim Chmerkoskiy,47,Entertainment,5,10,8,0.7777777777777778,12,0.6363636363636364
+14,Roshon Fegan,Chelsie Hightower,20,Entertainment,6,10,8,0.7777777777777778,12,0.5454545454545454
+14,Sherri Sheperd,Valentin Chmerkovskiy,44,Entertainment,10,10,4,0.3333333333333333,12,0.18181818181818177
+14,William Levy,Cheryl Burke,31,Entertainment,3,10,10,1.0,12,0.8181818181818181
+15,Apolo Anton Ohno,Karina Smirnoff,30,Sports,5,10,9,0.8888888888888888,13,0.6666666666666667
+15,Bristol Palin,Mark Ballas,21,Media,9,10,4,0.3333333333333333,13,0.33333333333333337
+15,Drew Lachey,Anna Trebunskaya,36,Music,11,10,3,0.2222222222222222,13,0.16666666666666663
+15,Emmitt Smith,Cheryl Burke,43,Sports,4,10,9,0.8888888888888888,13,0.75
+15,Gilles Marini,Peta Murgatroyd,36,Entertainment,6,10,8,0.7777777777777778,13,0.5833333333333333
+15,Helio Castroneves,Chelsie Hightower,37,Other,10,10,3,0.2222222222222222,13,0.25
+15,Joey Fatone,Kym Johnson,35,Music,12,10,2,0.1111111111111111,13,0.08333333333333337
+15,Kelly Monaco,Valentin Chmerkovskiy,36,Entertainment,3,10,10,1.0,13,0.8333333333333334
+15,Kirstie Alley,Maksim Chmerkoskiy,61,Entertainment,7,10,8,0.7777777777777778,13,0.5
+15,Melissa Rycroft,Tony Dovolani,29,Media,1,10,10,1.0,13,1.0
+15,Pamela Anderson,Tristan MacManus,45,Fashion,13,10,1,0.0,13,0.0
+15,Sabrina Bryan,Louis van Amstel,28,Entertainment,8,10,6,0.5555555555555556,13,0.41666666666666663
+15,Shawn Johnson,Derek Hough,20,Sports,2,10,10,1.0,13,0.9166666666666666
+16,Alexandra Raisman,Mark Ballas,18,Sports,4,10,10,1.0,12,0.7272727272727273
+16,Andy Dick,Sharna Burgess,47,Entertainment,7,10,7,0.6666666666666666,12,0.4545454545454546
+16,D. L. Hughley,Cheryl Burke,50,Entertainment,9,10,5,0.4444444444444444,12,0.2727272727272727
+16,Dorothy Hamill,Tristan MacManus,56,Sports,12,10,10,1.0,12,0.0
+16,Ingo Rademacher,Kym Johnson,41,Entertainment,5,10,9,0.8888888888888888,12,0.6363636363636364
+16,Jacoby Jones,Karina Smirnoff,28,Sports,3,10,10,1.0,12,0.8181818181818181
+16,Kellie Pickler,Derek Hough,26,Music,1,10,10,1.0,12,1.0
+16,Lisa Vanderpump,Gleb Savchenko,52,Media,10,10,4,0.3333333333333333,12,0.18181818181818177
+16,Sean Lowe,Peta Murgatroyd,29,Media,6,10,8,0.7777777777777778,12,0.5454545454545454
+16,Victor Ortiz,Lindsay Arnold,26,Sports,8,10,6,0.5555555555555556,12,0.36363636363636365
+16,Wynonna Judd,Tony Dovolani,48,Music,11,10,3,0.2222222222222222,12,0.09090909090909094
+16,Zendaya,Valentin Chmerkovskiy,16,Entertainment,2,10,10,1.0,12,0.9090909090909091
+17,Amber Riley,Derek Hough,27,Entertainment,1,11,11,1.0,12,1.0
+17,Bill Engvall,Emma Slater,56,Entertainment,4,11,11,1.0,12,0.7272727272727273
+17,Bill Nye,Tyne Stecklein,57,Media,11,11,3,0.2,12,0.09090909090909094
+17,Brant Daugherty,Peta Murgatroyd,28,Entertainment,7,11,8,0.7,12,0.4545454545454546
+17,Christina Milian,Mark Ballas,31,Music,9,11,5,0.4,12,0.2727272727272727
+17,Corbin Bleu,Karina Smirnoff,24,Entertainment,2,11,11,1.0,12,0.9090909090909091
+17,Elizabeth Berkley Lauren,Valentin Chmerkovskiy,39,Entertainment,6,11,9,0.8,12,0.5454545454545454
+17,Jack Osbourne,Cheryl Burke,27,Media,3,11,11,1.0,12,0.8181818181818181
+17,Keyshawn Johnson,Sharna Burgess,41,Sports,12,11,2,0.1,12,0.0
+17,Leah Remini,Tony Dovolani,43,Entertainment,5,11,10,0.9,12,0.6363636363636364
+17,"Nicole ""Snooki"" Polizzi",Sasha Farber,25,Media,8,11,7,0.6,12,0.36363636363636365
+17,Valerie Harper,Tristan MacManus,74,Entertainment,10,11,4,0.3,12,0.18181818181818177
+18,Amy Purdy,Derek Hough,34,Sports,2,10,10,1.0,12,0.9090909090909091
+18,Billy Dee Williams,Emma Slater,76,Entertainment,10,10,10,1.0,12,0.18181818181818177
+18,Candace Cameron Bure,Mark Ballas,37,Entertainment,3,10,10,1.0,12,0.8181818181818181
+18,Charlie White,Sharna Burgess,26,Sports,5,10,9,0.8888888888888888,12,0.6363636363636364
+18,Cody Simpson,Witney Carson,17,Music,9,10,5,0.4444444444444444,12,0.2727272727272727
+18,Danica McKellar,Valentin Chmerkovskiy,39,Entertainment,6,10,8,0.7777777777777778,12,0.5454545454545454
+18,Diana Nyad,Henry Byalikov,64,Sports,12,10,10,1.0,12,0.0
+18,Drew Carey,Cheryl Burke,55,Entertainment,8,10,6,0.5555555555555556,12,0.36363636363636365
+18,James Maslow,Peta Murgatroyd,23,Entertainment,4,10,10,1.0,12,0.7272727272727273
+18,Meryl Davis,Maksim Chmerkoskiy,27,Sports,1,10,10,1.0,12,1.0
+18,NeNe Leakes,Tony Dovolani,46,Media,7,10,7,0.6666666666666666,12,0.4545454545454546
+18,Sean Avery,Karina Smirnoff,33,Sports,11,10,2,0.1111111111111111,12,0.09090909090909094
+19,Alfonso Ribeiro,Witney Carson,42,Entertainment,1,11,11,1.0,13,1.0
+19,Antonio Sabato Jr.,Cheryl Burke,42,Entertainment,8,11,7,0.6,13,0.41666666666666663
+19,Bethany Mota,Derek Hough,18,Social Media,4,11,11,1.0,13,0.75
+19,Betsey Johnson,Tony Dovolani,72,Other,10,11,4,0.3,13,0.25
+19,Janel Parrish,Valentin Chmerkovskiy,25,Entertainment,3,11,11,1.0,13,0.8333333333333334
+19,Jonathan Bennett,Allison Holker,33,Entertainment,9,11,6,0.5,13,0.33333333333333337
+19,Lea Thompson,Artem Chigvintsev,53,Entertainment,6,11,9,0.8,13,0.5833333333333333
+19,Lolo Jones,Keo Motsepe,32,Sports,13,11,1,0.0,13,0.0
+19,Michael Waltrip,Emma Slater,51,Other,7,11,8,0.7,13,0.5
+19,Randy Couture,Karina Smirnoff,51,Sports,11,11,3,0.2,13,0.16666666666666663
+19,Sadie Robertson,Mark Ballas,17,Media,2,11,11,1.0,13,0.9166666666666666
+19,Tavis Smiley,Sharna Burgess,50,Other,12,11,2,0.1,13,0.08333333333333337
+19,Tommy Chong,Peta Murgatroyd,76,Entertainment,5,11,10,0.9,13,0.6666666666666667
+20,Charlotte McKinney,Keo Motsepe,21,Fashion,11,10,3,0.2222222222222222,12,0.09090909090909094
+20,Chris Soules,Witney Carson,33,Media,5,10,8,0.7777777777777778,12,0.6363636363636364
+20,Michael Sam,Peta Murgatroyd,25,Sports,10,10,4,0.3333333333333333,12,0.18181818181818177
+20,Nastia Liukin,Derek Hough,25,Sports,4,10,9,0.8888888888888888,12,0.7272727272727273
+20,Noah Galloway,Sharna Burgess,33,Other,3,10,10,1.0,12,0.8181818181818181
+20,Patti LaBelle,Artem Chigvintsev,70,Music,8,10,6,0.5555555555555556,12,0.36363636363636365
+20,Redfoo,Emma Slater,39,Music,12,10,2,0.1111111111111111,12,0.0
+20,Riker Lynch,Allison Holker,23,Entertainment,2,10,10,1.0,12,0.9090909090909091
+20,Robert Herjavec,Kym Johnson,52,Other,6,10,8,0.7777777777777778,12,0.5454545454545454
+20,Rumer Willis,Valentin Chmerkovskiy,26,Entertainment,1,10,10,1.0,12,1.0
+20,Suzanne Somers,Tony Dovolani,68,Entertainment,9,10,5,0.4444444444444444,12,0.2727272727272727
+20,Willow Shields,Mark Ballas,14,Entertainment,7,10,7,0.6666666666666666,12,0.4545454545454546
+21,Alek Skarlatos,Lindsay Arnold,22,Other,3,11,11,1.0,13,0.8333333333333334
+21,Alexa PenaVega,Mark Ballas,27,Entertainment,6,11,9,0.8,13,0.5833333333333333
+21,Andy Grammer,Allison Holker,31,Music,7,11,8,0.7,13,0.5
+21,Bindi Irwin,Derek Hough,17,Media,1,11,11,1.0,13,1.0
+21,Carlos PenaVega,Witney Carson,26,Entertainment,4,11,11,1.0,13,0.75
+21,Chaka Khan,Keo Motsepe,62,Music,13,11,2,0.1,13,0.0
+21,Gary Busey,Anna Trebunskaya,71,Entertainment,10,11,4,0.3,13,0.25
+21,Hayes Grier,Emma Slater,15,Social Media,8,11,7,0.6,13,0.41666666666666663
+21,Kim Zolciak-Biermann,Tony Dovolani,37,Media,11,11,11,1.0,13,0.16666666666666663
+21,Nick Carter,Sharna Burgess,35,Music,2,11,11,1.0,13,0.9166666666666666
+21,Paula Deen,Louis van Amstel,68,Media,9,11,6,0.5,13,0.33333333333333337
+21,Tamar Braxton,Valentin Chmerkovskiy,38,Music,5,11,11,1.0,13,0.6666666666666667
+21,Victor Espinoza,Karina Smirnoff,43,Sports,12,11,2,0.1,13,0.08333333333333337
+22,Antonio Brown,Sharna Burgess,27,Sports,5,10,9,0.8888888888888888,12,0.6363636363636364
+22,Doug Flutie,Karina Smirnoff,53,Sports,9,10,6,0.5555555555555556,12,0.2727272727272727
+22,Geraldo Rivera,Edyta Sliwinska,72,Media,12,10,2,0.1111111111111111,12,0.0
+22,Ginger Zee,Valentin Chmerkovskiy,35,Other,3,10,10,1.0,12,0.8181818181818181
+22,Jodie Sweetin,Keo Motsepe,34,Entertainment,6,10,8,0.7777777777777778,12,0.5454545454545454
+22,Kim Fields,Sasha Farber,46,Entertainment,8,10,7,0.6666666666666666,12,0.36363636363636365
+22,Marla Maples,Tony Dovolani,52,Media,10,10,4,0.3333333333333333,12,0.18181818181818177
+22,Mischa Barton,Artem Chigvintsev,30,Entertainment,11,10,3,0.2222222222222222,12,0.09090909090909094
+22,Nyle DiMarco,Peta Murgatroyd,26,Fashion,1,10,10,1.0,12,1.0
+22,Paige VanZant,Mark Ballas,22,Sports,2,10,10,1.0,12,0.9090909090909091
+22,Von Miller,Witney Carson,27,Sports,7,10,7,0.6666666666666666,12,0.4545454545454546
+22,Wanya Morris,Lindsay Arnold,42,Music,4,10,9,0.8888888888888888,12,0.7272727272727273
+23,Amber Rose,Maksim Chmerkoskiy,32,Fashion,9,11,6,0.5,13,0.33333333333333337
+23,Babyface,Allison Holker,57,Music,11,11,4,0.3,13,0.16666666666666663
+23,Calvin Johnson Jr.,Lindsay Arnold,30,Sports,3,11,11,1.0,13,0.8333333333333334
+23,Jake T. Austin,Jenna Johnson,21,Entertainment,13,11,2,0.1,13,0.0
+23,James Hinchcliffe,Sharna Burgess,29,Other,2,11,11,1.0,13,0.9166666666666666
+23,Jana Kramer,Gleb Savchenko,32,Music,4,11,11,1.0,13,0.75
+23,Laurie Hernandez,Valentin Chmerkovskiy,16,Sports,1,11,11,1.0,13,1.0
+23,Marilu Henner,Derek Hough,64,Entertainment,6,11,9,0.8,13,0.5833333333333333
+23,Maureen McCormick,Artem Chigvintsev,60,Entertainment,8,11,7,0.6,13,0.41666666666666663
+23,Rick Perry,Emma Slater,66,Politics,12,11,3,0.2,13,0.08333333333333337
+23,Ryan Lochte,Cheryl Burke,32,Sports,7,11,8,0.7,13,0.5
+23,Terra Jole,Sasha Farber,36,Media,5,11,10,0.9,13,0.6666666666666667
+23,Vanilla Ice,Witney Carson,48,Music,10,11,4,0.3,13,0.25
+24,Bonner Bolton,Sharna Burgess,29,Sports,5,10,8,0.7777777777777778,12,0.6363636363636364
+24,Charo,Keo Motsepe,66,Entertainment,11,10,3,0.2222222222222222,12,0.09090909090909094
+24,Chris Kattan,Witney Carson,46,Entertainment,12,10,2,0.1111111111111111,12,0.0
+24,David Ross,Lindsay Arnold,40,Sports,2,10,10,1.0,12,0.9090909090909091
+24,Erika Jayne,Gleb Savchenko,45,Music,9,10,5,0.4444444444444444,12,0.2727272727272727
+24,Heather Morris,Maksim Chmerkoskiy,30,Entertainment,8,10,6,0.5555555555555556,12,0.36363636363636365
+24,Mr. T,Kym Herjavec,64,Entertainment,10,10,4,0.3333333333333333,12,0.18181818181818177
+24,Nancy Kerrigan,Artem Chigvintsev,47,Sports,7,10,7,0.6666666666666666,12,0.4545454545454546
+24,Nick Viall,Peta Murgatroyd,36,Media,6,10,7,0.6666666666666666,12,0.5454545454545454
+24,Normani,Valentin Chmerkovskiy,20,Music,3,10,10,1.0,12,0.8181818181818181
+24,Rashad Jennings,Emma Slater,32,Sports,1,10,10,1.0,12,1.0
+24,Simone Biles,Sasha Farber,20,Sports,4,10,9,0.8888888888888888,12,0.7272727272727273
+25,Barbara Corcoran,Keo Motsepe,68,Other,13,10,2,0.1111111111111111,13,0.0
+25,Debbie Gibson,Alan Bersten,47,Music,12,10,2,0.1111111111111111,13,0.08333333333333337
+25,Derek Fisher,Sharna Burgess,43,Sports,11,10,4,0.3333333333333333,13,0.16666666666666663
+25,Drew Scott,Emma Slater,39,Media,4,10,10,1.0,13,0.75
+25,Frankie Muniz,Witney Carson,31,Entertainment,3,10,10,1.0,13,0.8333333333333334
+25,Jordan Fisher,Lindsay Arnold,23,Entertainment,1,10,10,1.0,13,1.0
+25,Lindsey Stirling,Mark Ballas,31,Music,2,10,10,1.0,13,0.9166666666666666
+25,Nick Lachey,Peta Murgatroyd,43,Music,9,10,6,0.5555555555555556,13,0.33333333333333337
+25,Nikki Bella,Artem Chigvintsev,33,Sports,8,10,7,0.6666666666666666,13,0.41666666666666663
+25,Sasha Pieterse,Gleb Savchenko,21,Entertainment,10,10,5,0.4444444444444444,13,0.25
+25,Terrell Owens,Cheryl Burke,43,Sports,6,10,8,0.7777777777777778,13,0.5833333333333333
+25,Vanessa Lachey,Maksim Chmerkoskiy,36,Media,7,10,7,0.6666666666666666,13,0.5
+25,Victoria Arlen,Valentin Chmerkovskiy,22,Sports,5,10,9,0.8888888888888888,13,0.6666666666666667
+26,Adam Rippon,Jenna Johnson,28,Sports,1,4,4,1.0,10,1.0
+26,Arike Ogunbowale,Gleb Savchenko,21,Sports,7,4,2,0.3333333333333333,10,0.33333333333333337
+26,Chris Mazdzer,Witney Carson,29,Sports,5,4,3,0.6666666666666666,10,0.5555555555555556
+26,Jamie Anderson,Artem Chigvintsev,27,Sports,10,4,1,0.0,10,0.0
+26,Jennie Finch Daigle,Keo Motsepe,37,Sports,6,4,3,0.6666666666666666,10,0.4444444444444444
+26,Johnny Damon,Emma Slater,44,Sports,9,4,1,0.0,10,0.11111111111111116
+26,Josh Norman,Sharna Burgess,30,Sports,2,4,4,1.0,10,0.8888888888888888
+26,Kareem Abdul-Jabbar,Lindsay Arnold,71,Sports,8,4,2,0.3333333333333333,10,0.2222222222222222
+26,Mirai Nagasu,Alan Bersten,25,Sports,4,4,3,0.6666666666666666,10,0.6666666666666667
+26,Tonya Harding,Sasha Farber,47,Sports,3,4,4,1.0,10,0.7777777777777778
+27,Alexis Ren,Alan Bersten,21,Social Media,4,9,9,1.0,13,0.75
+27,Bobby Bones,Sharna Burgess,38,Other,1,9,9,1.0,13,1.0
+27,Danelle Umstead,Artem Chigvintsev,46,Sports,12,9,2,0.125,13,0.08333333333333337
+27,DeMarcus Ware,Lindsay Arnold,36,Sports,7,9,7,0.75,13,0.5
+27,Evanna Lynch,Keo Motsepe,27,Entertainment,3,9,9,1.0,13,0.8333333333333334
+27,Joe Amabile,Jenna Johnson,32,Media,6,9,8,0.875,13,0.5833333333333333
+27,John Schneider,Emma Slater,58,Entertainment,8,9,7,0.75,13,0.41666666666666663
+27,Juan Pablo Di Pace,Cheryl Burke,39,Entertainment,5,9,8,0.875,13,0.6666666666666667
+27,Mary Lou Retton,Sasha Farber,50,Sports,9,9,6,0.625,13,0.33333333333333337
+27,Milo Manheim,Witney Carson,17,Entertainment,2,9,9,1.0,13,0.9166666666666666
+27,Nancy McKeon,Valentin Chmerkovskiy,52,Entertainment,11,9,3,0.25,13,0.16666666666666663
+27,Nikki Glaser,Gleb Savchenko,34,Entertainment,13,9,1,0.0,13,0.0
+27,Tinashe,Brandon Armstrong,25,Music,10,9,4,0.375,13,0.25
+28,Ally Brooke,Sasha Farber,26,Music,3,11,11,1.0,12,0.8181818181818181
+28,Hannah Brown,Alan Bersten,24,Media,1,11,11,1.0,12,1.0
+28,James Van Der Beek,Emma Slater,42,Entertainment,5,11,10,0.9,12,0.6363636363636364
+28,Karamo Brown,Jenna Johnson,38,Media,8,11,7,0.6,12,0.36363636363636365
+28,Kate Flannery,Pasha Pashkov,55,Entertainment,7,11,8,0.7,12,0.4545454545454546
+28,Kel Mitchell,Witney Carson,41,Entertainment,2,11,11,1.0,12,0.9090909090909091
+28,Lamar Odom,Peta Murgatroyd,39,Sports,10,11,4,0.3,12,0.18181818181818177
+28,Lauren Alaina,Gleb Savchenko,24,Music,4,11,11,1.0,12,0.7272727272727273
+28,Mary Wilson,Brandon Armstrong,75,Music,12,11,2,0.1,12,0.0
+28,Ray Lewis,Cheryl Burke,44,Sports,11,11,11,1.0,12,0.09090909090909094
+28,Sailor Brinkley-Cook,Valentin Chmerkovskiy,21,Fashion,9,11,6,0.5,12,0.2727272727272727
+28,Sean Spicer,Lindsay Arnold,48,Politics,6,11,9,0.8,12,0.5454545454545454
+29,AJ McLean,Cheryl Burke,42,Music,7,11,9,0.8,15,0.5714285714285714
+29,Anne Heche,Keo Motsepe,51,Entertainment,13,11,4,0.3,15,0.1428571428571429
+29,Carole Baskin,Pasha Pashkov,59,Media,14,11,3,0.2,15,0.0714285714285714
+29,Charles Oakley,Emma Slater,56,Sports,15,11,2,0.1,15,0.0
+29,Chrishell Stause,Gleb Savchenko,39,Entertainment,8,11,8,0.7,15,0.5
+29,Jeannie Mai,Brandon Armstrong,41,Media,9,11,11,1.0,15,0.4285714285714286
+29,Jesse Metcalfe,Sharna Burgess,41,Entertainment,12,11,5,0.4,15,0.2142857142857143
+29,Johnny Weir,Britt Stewart,36,Sports,6,11,10,0.9,15,0.6428571428571428
+29,Justina Machado,Sasha Farber,48,Entertainment,4,11,11,1.0,15,0.7857142857142857
+29,Kaitlyn Bristowe,Artem Chigvintsev,35,Media,1,11,11,1.0,15,1.0
+29,Monica Aldama,Valentin Chmerkovskiy,48,Media,10,11,7,0.6,15,0.3571428571428571
+29,Nelly,Daniella Karagach,45,Music,3,11,11,1.0,15,0.8571428571428572
+29,Nev Schulman,Jenna Johnson,35,Other,2,11,11,1.0,15,0.9285714285714286
+29,Skai Jackson,Alan Bersten,18,Entertainment,5,11,10,0.9,15,0.7142857142857143
+29,Veron Davis,Peta Murgatroyd,36,Sports,11,11,6,0.5,15,0.2857142857142857
+30,Amanda Kloots,Alan Bersten,39,Media,4,10,10,1.0,15,0.7857142857142857
+30,Brian Austin Green,Sharna Burgess,48,Entertainment,13,10,4,0.3333333333333333,15,0.1428571428571429
+30,Christine Chiu,Pasha Pashkov,38,Media,14,10,3,0.2222222222222222,15,0.0714285714285714
+30,Cody Rigsby,Cheryl Burke,34,Other,3,10,10,1.0,15,0.8571428571428572
+30,Iman Shumpert,Daniella Karagach,31,Sports,1,10,10,1.0,15,1.0
+30,Jimmie Allen,Emma Slater,36,Music,7,10,8,0.7777777777777778,15,0.5714285714285714
+30,JoJo Siwa,Jenna Johnson,18,Social Media,2,10,10,1.0,15,0.9285714285714286
+30,Kenya Moore,Brandon Armstrong,50,Media,10,10,6,0.5555555555555556,15,0.3571428571428571
+30,Martin Kove,Britt Stewart,75,Entertainment,15,10,2,0.1111111111111111,15,0.0
+30,Matt James,Lindsay Arnold,29,Sports,12,10,4,0.3333333333333333,15,0.2142857142857143
+30,Melanie C,Gleb Savchenko,47,Music,11,10,5,0.4444444444444444,15,0.2857142857142857
+30,Melora Hardin,Artem Chigvintsev,54,Entertainment,6,10,9,0.8888888888888888,15,0.6428571428571428
+30,"Mike ""The Miz"" Mizanin",Witney Carson,40,Sports,9,10,7,0.6666666666666666,15,0.4285714285714286
+30,Olivia Jade,Valentin Chmerkovskiy,21,Social Media,8,10,8,0.7777777777777778,15,0.5
+30,Suni Lee,Sasha Farber,18,Sports,5,10,9,0.8888888888888888,15,0.7142857142857143
+31,Charli D'Amelio,Mark Ballas,18,Social Media,1,10,10,1.0,16,1.0
+31,Cheryl Ladd,Louis van Amstel,71,Entertainment,14,10,3,0.2222222222222222,16,0.1333333333333333
+31,Daniel Durant,Britt Stewart,32,Entertainment,5,10,9,0.8888888888888888,16,0.7333333333333334
+31,Gabby Windey,Valentin Chmerkovskiy,31,Media,2,10,10,1.0,16,0.9333333333333333
+31,Heidi D'Amelio,Artem Chigvintsev,50,Social Media,8,10,8,0.7777777777777778,16,0.5333333333333333
+31,Jason Lewis,Peta Murgatroyd,51,Entertainment,16,10,1,0.0,16,0.0
+31,Jessie James Decker,Alan Bersten,34,Music,10,10,6,0.5555555555555556,16,0.4
+31,Jordin Sparks,Brandon Armstrong,32,Music,9,10,7,0.6666666666666666,16,0.4666666666666667
+31,Joseph Baena,Daniella Karagach,24,Entertainment,11,10,5,0.4444444444444444,16,0.33333333333333337
+31,Sam Champion,Cheryl Burke,61,Other,13,10,4,0.3333333333333333,16,0.19999999999999996
+31,Selma Blair,Sasha Farber,50,Entertainment,12,10,10,1.0,16,0.2666666666666667
+31,Shangela,Gleb Savchenko,40,Media,4,10,10,1.0,16,0.8
+31,Teresa Giudice,Pasha Pashkov,50,Media,15,10,2,0.1111111111111111,16,0.06666666666666665
+31,Trevor Donovan,Emma Slater,39,Entertainment,6,10,9,0.8888888888888888,16,0.6666666666666667
+31,Vinny Guadagnino,Koko Iwasaki,34,Media,7,10,8,0.7777777777777778,16,0.6
+31,Wayne Brady,Witney Carson,50,Entertainment,3,10,10,1.0,16,0.8666666666666667
+32,Adrian Peterson,Britt Stewart,38,Sports,11,11,4,0.3,14,0.23076923076923073
+32,Alyson Hannigan,Sasha Farber,49,Entertainment,5,11,11,1.0,14,0.6923076923076923
+32,Ariana Madix,Pasha Pashkov,38,Media,3,11,11,1.0,14,0.8461538461538461
+32,Barry Williams,Peta Murgatroyd,68,Entertainment,7,11,8,0.7,14,0.5384615384615384
+32,Charity Lawson,Artem Chigvintsev,27,Media,4,11,11,1.0,14,0.7692307692307692
+32,Harry Jowsey,Rylee Arnold,26,Media,6,11,9,0.8,14,0.6153846153846154
+32,Jamie Lynn Spears,Alan Bersten,32,Entertainment,13,11,2,0.1,14,0.07692307692307687
+32,Jason Mraz,Daniella Karagach,46,Music,2,11,11,1.0,14,0.9230769230769231
+32,Lele Pons,Brandon Armstrong,27,Social Media,8,11,7,0.6,14,0.46153846153846156
+32,Matt Walsh,Koko Iwasaki,58,Entertainment,14,11,1,0.0,14,0.0
+32,Mauricio Umansky,Emma Slater,53,Media,9,11,6,0.5,14,0.3846153846153846
+32,Mira Sorvino,Gleb Savchenko,55,Entertainment,10,11,5,0.4,14,0.3076923076923077
+32,Tyson Beckford,Jenna Johnson,52,Fashion,12,11,3,0.2,14,0.15384615384615385
+32,Xochitl Gomez,Valentin Chmerkovskiy,17,Entertainment,1,11,11,1.0,14,1.0
+33,Anna Delvey,Ezra Sosa,33,Other,12,9,2,0.125,12,0.0
+33,Brooks Nader,Gleb Savchenko,27,Fashion,9,9,4,0.375,12,0.2727272727272727
+33,Chandler Kinney,Brandon Armstrong,24,Entertainment,3,9,9,1.0,12,0.8181818181818181
+33,Danny Amendola,Witney Carson,39,Sports,5,9,9,1.0,12,0.6363636363636364
+33,Dwight Howard ,Daniella Karagach,38,Sports,6,9,7,0.75,12,0.5454545454545454
+33,Eric Roberts,Britt Stewart,68,Entertainment,10,9,3,0.25,12,0.18181818181818177
+33,Ilona Maher,Alan Bersten,28,Sports,2,9,9,1.0,12,0.9090909090909091
+33,Jenn Tran,Sasha Farber,26,Media,7,9,6,0.625,12,0.4545454545454546
+33,Joey Graziadei,Jenna Johnson,29,Media,1,9,9,1.0,12,1.0
+33,Phaedra Parks,Val Chmerkovskiy,51,Media,8,9,5,0.5,12,0.36363636363636365
+33,Reginald VelJohnson,Emma Slater,74,Entertainment,10,9,3,0.25,12,0.18181818181818177
+33,Stephen Nedoroscik,Rylee Arnold,26,Sports,4,9,9,1.0,12,0.7272727272727273
+33,Tori Spelling,Pasha Pashkov,51,Entertainment,12,9,2,0.125,12,0.0
+34,Alix Earle,Val Chmerkovskiy (Joey Graziadei week 9),24,Social Media,2,11,11,1.0,13,0.9166666666666666
+34,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),59,Entertainment,7,11,9,0.8,13,0.5
+34,Baron Davis,Britt Stewart,46,Sports,13,11,2,0.1,13,0.0
+34,Corey Feldman,Jenna Johnson,54,Entertainment,13,11,2,0.1,13,0.0
+34,Danielle Fishel,Pasha Pashkov,44,Entertainment,8,11,8,0.7,13,0.41666666666666663
+34,Dylan Efron,Daniella Karagach (Rumer Willis week 9),33,Media,4,11,11,1.0,13,0.75
+34,Elaine Hendrix,Alan Bersten (Rashad Jennings week 9),55,Entertainment,5,11,11,1.0,13,0.6666666666666667
+34,Hilaria Baldwin,Gleb Savchenko,41,Other,11,11,4,0.3,13,0.16666666666666663
+34,Jen Affleck,Jan Ravnik,26,Media,9,11,7,0.6,13,0.33333333333333337
+34,Jordan Chiles,Ezra Sosa (Apolo Anton Ohno week 9),24,Sports,3,11,11,1.0,13,0.8333333333333334
+34,Lauren Jauregui,Brandon Armstrong,29,Music,12,11,3,0.2,13,0.08333333333333337
+34,Robert Irwin,Witney Carson (Xoshitl Gomez week 9),22,Other,1,11,11,1.0,13,1.0
+34,Scott Hoying,Rylee Arnold,34,Music,10,11,6,0.5,13,0.25
+34,Whitney Leavitt,Mark Ballas,32,Media,6,11,10,0.9,13,0.5833333333333333

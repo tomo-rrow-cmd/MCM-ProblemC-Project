@@ -1,0 +1,34 @@
+{
+  "run_time": "2026-02-01 17:52:45",
+  "seed": 42,
+  "inputs": {
+    "mcm_modeling_dataset": "mcm_modeling_dataset.csv",
+    "latent_estimates": "latent_estimates.csv",
+    "cleaned_data": "cleaned_data.csv"
+  },
+  "column_mapping": {
+    "from_mcm": {
+      "celebrity_industry": "industry_category"
+    },
+    "from_cleaned": {
+      "ballroom_partner": "ballroom_partner",
+      "celebrity_age_during_season": "celebrity_age",
+      "placement": "placement"
+    },
+    "unresolved": []
+  },
+  "counts": {
+    "rows_mcm": 4199,
+    "rows_latent": 2777,
+    "rows_merged": 4199,
+    "latent_missing_rows": 1442,
+    "rule_type_missing_rows": 1422,
+    "fan_ci_invalid_rows": 1446
+  },
+  "outputs": [
+    "q3_do_well_defs.csv",
+    "q3_weekly_norm.csv",
+    "q3_data_quality_summary.csv",
+    "step1_audit.json"
+  ]
+}
