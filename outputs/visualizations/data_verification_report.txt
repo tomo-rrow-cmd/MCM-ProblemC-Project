@@ -1,0 +1,154 @@
+DATA VERIFICATION REPORT
+================================================================================
+1) Active Rows vs Total Rows
+- Active rows (is_active=True): 2402
+- Total rows: 3634
+- Active ratio: 0.661
+
+2) Missing / Placeholder Values Summary
+- Wide table: total NaN in score cells = 4741
+- Wide table: total zeros in score cells = 4671
+- Long table: NaN counts by judge columns:
+  * judge1_score: 0
+  * judge2_score: 0
+  * judge3_score: 13
+  * judge4_score: 2579
+
+3) Normalized Score Range Check (expected: [0, 1])
+- min(normalized_score) among active rows: 0.266667
+- max(normalized_score) among active rows: 1.299997
+- count(normalized_score > 1): 59
+- count(normalized_score < 0): 0
+
+4) Judge Panel Type by Season (3-judge / 4-judge / mixed)
+- 3-judge: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 16, 27, 29]
+- 4-judge: [19, 20, 24, 31]
+- mixed: [11, 12, 15, 17, 18, 21, 22, 23, 25, 26, 28, 30, 32, 33, 34]
+- unknown: []
+
+5) Judges' Save Verification (min-score rule violation)
+- Definition: If the lowest total_judge_score contestant was NOT eliminated while
+  - Note: This check compares elimination vs *judges' score only*. Since fan votes affect eliminations,
+  violations may appear even before S28. Interpret has_judges_save as "min-judge-score not eliminated".
+  someone with a higher score WAS eliminated in the same week, we flag a violation.
+- Seasons with violation (has_judges_save=True): [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+
+  Violation details (season, week, week_min_score, eliminated_min_score):
+  * S1, Week 2: min=14.00, eliminated_min=19.00
+  * S2, Week 1: min=12.00, eliminated_min=13.00
+  * S2, Week 2: min=16.00, eliminated_min=17.00
+  * S2, Week 7: min=20.50, eliminated_min=26.50
+  * S3, Week 2: min=21.00, eliminated_min=22.00
+  * S3, Week 3: min=19.00, eliminated_min=22.00
+  * S3, Week 4: min=20.00, eliminated_min=24.00
+  * S3, Week 5: min=24.00, eliminated_min=27.00
+  * S4, Week 3: min=16.00, eliminated_min=21.00
+  * S4, Week 4: min=15.00, eliminated_min=16.00
+  * S4, Week 7: min=19.00, eliminated_min=22.50
+  * S5, Week 2: min=15.00, eliminated_min=21.00
+  * S5, Week 4: min=22.00, eliminated_min=23.00
+  * S5, Week 6: min=23.00, eliminated_min=25.00
+  * S5, Week 9: min=28.00, eliminated_min=29.00
+  * S6, Week 2: min=16.00, eliminated_min=17.00
+  * S6, Week 3: min=19.00, eliminated_min=21.00
+  * S6, Week 8: min=25.00, eliminated_min=26.50
+  * S7, Week 2: min=15.00, eliminated_min=17.00
+  * S7, Week 5: min=21.00, eliminated_min=22.00
+  * S7, Week 7: min=21.00, eliminated_min=24.00
+  * S8, Week 2: min=17.00, eliminated_min=18.00
+  * S8, Week 3: min=10.00, eliminated_min=16.00
+  * S8, Week 5: min=20.00, eliminated_min=22.00
+  * S8, Week 8: min=23.00, eliminated_min=25.50
+  * S8, Week 9: min=23.00, eliminated_min=26.00
+  * S9, Week 3: min=14.00, eliminated_min=17.00
+  * S9, Week 4: min=16.00, eliminated_min=17.00
+  * S9, Week 5: min=21.00, eliminated_min=22.00
+  * S9, Week 6: min=22.00, eliminated_min=24.00
+  * S10, Week 2: min=12.00, eliminated_min=20.00
+  * S11, Week 5: min=18.00, eliminated_min=21.00
+  * S11, Week 6: min=22.00, eliminated_min=32.00
+  * S11, Week 8: min=23.50, eliminated_min=24.00
+  * S11, Week 9: min=26.50, eliminated_min=28.50
+  * S12, Week 4: min=18.00, eliminated_min=21.00
+  * S12, Week 7: min=30.00, eliminated_min=30.50
+  * S12, Week 8: min=23.00, eliminated_min=26.00
+  * S13, Week 3: min=18.00, eliminated_min=24.00
+  * S13, Week 4: min=20.00, eliminated_min=21.00
+  * S13, Week 7: min=22.00, eliminated_min=23.50
+  * S14, Week 4: min=20.00, eliminated_min=21.00
+  * S14, Week 7: min=23.50, eliminated_min=25.50
+  * S14, Week 9: min=28.50, eliminated_min=29.50
+  * S15, Week 2: min=18.00, eliminated_min=22.50
+  * S15, Week 3: min=22.50, eliminated_min=24.00
+  * S15, Week 4: min=30.00, eliminated_min=32.00
+  * S15, Week 6: min=26.50, eliminated_min=30.00
+  * S16, Week 10: min=28.00, eliminated_min=29.00
+  * S17, Week 2: min=17.00, eliminated_min=18.00
+  * S17, Week 5: min=22.00, eliminated_min=28.00
+  * S17, Week 8: min=24.00, eliminated_min=27.00
+  * S17, Week 9: min=21.00, eliminated_min=28.00
+  * S17, Week 10: min=30.00, eliminated_min=32.50
+  * S18, Week 8: min=36.00, eliminated_min=38.00
+  * S18, Week 9: min=36.00, eliminated_min=38.00
+  * S18, Week 10: min=26.00, eliminated_min=29.00
+  * S19, Week 1: min=20.00, eliminated_min=22.00
+  * S19, Week 2: min=24.00, eliminated_min=28.00
+  * S19, Week 4: min=24.00, eliminated_min=29.00
+  * S19, Week 6: min=30.00, eliminated_min=32.00
+  * S20, Week 2: min=21.00, eliminated_min=31.00
+  * S20, Week 4: min=27.00, eliminated_min=30.00
+  * S20, Week 5: min=27.00, eliminated_min=28.00
+  * S20, Week 7: min=31.00, eliminated_min=39.00
+  * S20, Week 8: min=31.50, eliminated_min=32.00
+  * S21, Week 7: min=26.50, eliminated_min=28.00
+  * S21, Week 9: min=24.50, eliminated_min=30.00
+  * S21, Week 11: min=28.00, eliminated_min=30.00
+  * S22, Week 4: min=24.00, eliminated_min=28.00
+  * S22, Week 7: min=25.50, eliminated_min=26.00
+  * S22, Week 8: min=25.00, eliminated_min=30.00
+  * S23, Week 2: min=22.00, eliminated_min=24.00
+  * S23, Week 7: min=32.00, eliminated_min=33.00
+  * S23, Week 8: min=23.00, eliminated_min=26.00
+  * S23, Week 10: min=28.00, eliminated_min=30.00
+  * S24, Week 5: min=29.00, eliminated_min=32.00
+  * S24, Week 6: min=30.50, eliminated_min=37.00
+  * S24, Week 7: min=31.00, eliminated_min=34.00
+  * S24, Week 9: min=35.00, eliminated_min=40.00
+  * S25, Week 4: min=22.00, eliminated_min=23.00
+  * S25, Week 8: min=24.00, eliminated_min=25.50
+  * S25, Week 9: min=25.50, eliminated_min=28.00
+  * S26, Week 1: min=17.00, eliminated_min=18.00
+  * S27, Week 1: min=14.00, eliminated_min=17.50
+  * S27, Week 2: min=17.50, eliminated_min=18.50
+  * S27, Week 3: min=18.00, eliminated_min=22.00
+  * S27, Week 4: min=15.00, eliminated_min=26.00
+  * S27, Week 6: min=19.00, eliminated_min=24.00
+  * S27, Week 7: min=23.50, eliminated_min=26.50
+  * S27, Week 8: min=22.50, eliminated_min=23.00
+  * S28, Week 2: min=12.00, eliminated_min=15.00
+  * S28, Week 6: min=21.00, eliminated_min=27.00
+  * S28, Week 7: min=21.00, eliminated_min=24.50
+  * S28, Week 8: min=20.00, eliminated_min=26.00
+  * S29, Week 6: min=18.00, eliminated_min=21.00
+  * S29, Week 8: min=24.00, eliminated_min=27.00
+  * S29, Week 9: min=24.00, eliminated_min=25.00
+  * S29, Week 10: min=28.00, eliminated_min=28.50
+  * S30, Week 9: min=35.50, eliminated_min=36.00
+  * S31, Week 1: min=17.00, eliminated_min=18.00
+  * S31, Week 2: min=21.00, eliminated_min=23.00
+  * S31, Week 3: min=23.00, eliminated_min=24.00
+  * S31, Week 5: min=31.00, eliminated_min=35.00
+  * S31, Week 7: min=31.50, eliminated_min=34.50
+  * S32, Week 2: min=15.00, eliminated_min=16.00
+  * S32, Week 4: min=18.00, eliminated_min=21.00
+  * S32, Week 5: min=21.00, eliminated_min=22.00
+  * S32, Week 8: min=33.00, eliminated_min=35.00
+  * S33, Week 2: min=15.00, eliminated_min=19.00
+  * S33, Week 4: min=29.00, eliminated_min=32.00
+  * S33, Week 6: min=24.00, eliminated_min=31.00
+  * S34, Week 4: min=18.00, eliminated_min=23.00
+  * S34, Week 6: min=27.00, eliminated_min=28.00
+  * S34, Week 7: min=29.00, eliminated_min=34.00
+  * S34, Week 8: min=34.00, eliminated_min=37.00
+  * S34, Week 10: min=27.50, eliminated_min=29.00
+
