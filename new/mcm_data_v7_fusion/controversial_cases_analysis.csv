@@ -1,0 +1,343 @@
+season,week,victim,victim_score,survivor,survivor_score,score_gap
+1,2,Trista Sutter,19.0,Evander Holyfield,14.0,5.0
+1,2,Trista Sutter,19.0,Kelly Monaco,17.0,2.0
+1,4,Rachel Hunter,25.0,Joey McIntyre,20.0,5.0
+1,4,Rachel Hunter,25.0,John O'Hurley,21.0,4.0
+2,1,Kenny Mayne,13.0,Master P,12.0,1.0
+2,2,Tatum O'Neal,17.0,Master P,16.0,1.0
+2,3,Giselle Fernandez,22.0,Jerry Rice,19.0,3.0
+2,3,Giselle Fernandez,22.0,Master P,14.0,8.0
+2,7,Lisa Rinna,26.5,Jerry Rice,20.5,6.0
+3,2,Shanna Moakler,22.0,Harry Hamlin,21.0,1.0
+3,2,Shanna Moakler,22.0,Jerry Springer,19.0,3.0
+3,2,Shanna Moakler,22.0,Mario Lopez,21.0,1.0
+3,2,Shanna Moakler,22.0,Sara Evans,21.0,1.0
+3,3,Harry Hamlin,22.0,Emmitt Smith,19.0,3.0
+3,3,Harry Hamlin,22.0,Jerry Springer,21.0,1.0
+3,4,Vivica A. Fox,24.0,Jerry Springer,22.0,2.0
+3,4,Vivica A. Fox,24.0,Sara Evans,20.0,4.0
+3,5,Willa Ford,27.0,Jerry Springer,24.0,3.0
+3,5,Willa Ford,27.0,Joey Lawrence,25.0,2.0
+3,5,Willa Ford,27.0,Sara Evans,24.0,3.0
+4,2,Paulina Porizkova,21.0,Clyde Drexler,18.0,3.0
+4,2,Paulina Porizkova,21.0,Shandi Finnessey,20.0,1.0
+4,3,Shandi Finnessey,21.0,Clyde Drexler,16.0,5.0
+4,3,Shandi Finnessey,21.0,John Ratzenberger,20.0,1.0
+4,4,Leeza Gibbons,16.0,Clyde Drexler,15.0,1.0
+4,6,Heather Mills,23.0,Billy Ray Cyrus,21.0,2.0
+4,6,Heather Mills,23.0,John Ratzenberger,19.0,4.0
+4,7,John Ratzenberger,22.5,Billy Ray Cyrus,19.0,3.5
+5,2,Albert Reed,21.0,Mark Cuban,18.0,3.0
+5,2,Albert Reed,21.0,Wayne Newton,15.0,6.0
+5,4,Floyd Mayweather Jr. ,23.0,Mark Cuban,22.0,1.0
+5,6,Sabrina Bryan,25.0,Jane Seymour,22.0,3.0
+5,6,Sabrina Bryan,25.0,Marie Osmond,23.0,2.0
+5,8,Cameron Mathison,25.5,Jennie Garth,25.0,0.5
+5,8,Cameron Mathison,25.5,Marie Osmond,24.5,1.0
+5,9,Jennie Garth,29.0,Marie Osmond,28.0,1.0
+6,2,Penn Jillette,17.0,Steve Guttenberg,16.0,1.0
+6,3,Steve Guttenberg,21.0,Marissa Jaret Winokur,19.0,2.0
+6,7,Shannon Elizabeth,25.5,Cristian de la Fuente,23.0,2.5
+6,8,Mario,26.5,Jason Taylor,26.0,0.5
+6,8,Mario,26.5,Marissa Jaret Winokur,25.0,1.5
+7,1,Ted McGinley,18.5,Cloris Leachman,16.0,2.5
+7,1,Ted McGinley,18.5,Rocco DiSpirito,17.5,1.0
+7,2,Kim Kardashian,17.0,Cloris Leachman,15.0,2.0
+7,2,Kim Kardashian,17.0,Rocco DiSpirito,16.0,1.0
+7,5,Toni Braxton,22.0,Cloris Leachman,21.0,1.0
+7,5,Toni Braxton,22.0,Lance Bass,21.0,1.0
+7,7,Susan Lucci,24.0,Cody Linley,22.0,2.0
+7,7,Susan Lucci,24.0,Warren Sapp,21.0,3.0
+8,2,Belinda Carlisle,18.0,David Alan Grier,17.0,1.0
+8,2,Belinda Carlisle,18.0,Steve Wozniak,17.0,1.0
+8,2,Belinda Carlisle,18.0,Steve-O,14.0,4.0
+8,3,Denise Richards,16.0,Steve Wozniak,10.0,6.0
+8,3,Denise Richards,16.0,Steve-O,15.0,1.0
+8,4,Holly Madison,16.0,Steve-O,15.0,1.0
+8,5,David Alan Grier,22.0,Lawrence Taylor,20.0,2.0
+8,5,David Alan Grier,22.0,Steve-O,18.0,4.0
+8,5,David Alan Grier,22.0,Ty Murray,21.0,1.0
+8,8,Chuck Wicks,25.5,Melissa Rycroft,23.0,2.5
+8,9,Lil' Kim,26.0,Ty Murray,23.0,3.0
+9,3,Debi Mazar,17.0,Michael Irvin,14.0,3.0
+9,3,Debi Mazar,17.0,Tom DeLay,15.0,2.0
+9,4,Chuck Liddell,17.0,Louie Vito,16.0,1.0
+9,4,Chuck Liddell,17.0,Michael Irvin,16.0,1.0
+9,5,Natalie Coughlin,22.0,Michael Irvin,21.0,1.0
+9,6,Louie Vito,24.0,Michael Irvin,21.9998,2.0001999999999995
+9,6,Melissa Joan Hart,23.9999,Michael Irvin,21.9998,2.0000999999999998
+9,9,Joanna Krupa,27.0,Donny Osmond,24.666600000000003,2.3333999999999975
+9,9,Joanna Krupa,27.0,Kelly Osbourne,25.9998,1.0001999999999995
+10,2,Shannen Doherty,20.0,Aiden Turner,19.0,1.0
+10,2,Shannen Doherty,20.0,Buzz Aldrin,12.0,8.0
+10,2,Shannen Doherty,20.0,Chad Ochocinco,16.0,4.0
+10,2,Shannen Doherty,20.0,Kate Gosselin,15.0,5.0
+10,4,Aiden Turner,16.5,Kate Gosselin,16.0,0.5
+10,7,Pamela Anderson,25.5,Niecy Nash,24.5,1.0
+11,5,Florence Henderson,21.0,Bristol Palin,18.0,3.0
+11,5,Florence Henderson,21.0,Kyle Massey,20.0,1.0
+11,6,Audrina Patridge,31.9998,Bristol Palin,27.9998,4.0
+11,6,Audrina Patridge,31.9998,Jennifer Grey,29.0,2.9998000000000005
+11,6,Audrina Patridge,31.9998,Kurt Warner,21.9999,9.9999
+11,6,Audrina Patridge,31.9998,Kyle Massey,29.999899999999997,1.9999000000000038
+11,6,Audrina Patridge,31.9998,Rick Fox,30.0,1.9998000000000005
+11,7,Rick Fox,34.5,Bristol Palin,32.5,2.0
+11,7,Rick Fox,34.5,Kyle Massey,33.5,1.0
+11,8,Kurt Warner,24.0,Bristol Palin,23.5,0.5
+11,9,Brandy,28.5,Bristol Palin,26.5,2.0
+12,4,Sugar Ray Leonard,21.0,Kendra Wilkinson,18.0,3.0
+12,7,Kendra Wilkinson,30.5,Kirstie Alley,30.0,0.5
+12,7,Kendra Wilkinson,30.5,Romeo,30.0,0.5
+12,8,Romeo,26.0,Ralph Macchio,23.0,3.0
+13,2,Elisabetta Canalis,21.0,Carson Kressley,18.0,3.0
+13,2,Elisabetta Canalis,21.0,Chaz Bono,17.0,4.0
+13,2,Elisabetta Canalis,21.0,David Arquette,18.0,3.0
+13,2,Elisabetta Canalis,21.0,Hope Solo,19.0,2.0
+13,3,Kristin Cavallari,24.0,Carson Kressley,23.0,1.0
+13,3,Kristin Cavallari,24.0,Chaz Bono,18.0,6.0
+13,3,Kristin Cavallari,24.0,Nancy Grace,21.0,3.0
+13,4,Chynna Phillips,21.0,Carson Kressley,20.0,1.0
+13,7,David Arquette,23.5,Nancy Grace,22.0,1.5
+14,4,Sherri Sheperd,21.0,Gladys Knight,20.0,1.0
+14,7,Jaleel White,25.5,Melissa Gilbert,23.5,2.0
+14,8,Roshon Fegan,28.0,Donald Driver,27.5,0.5
+14,8,Roshon Fegan,28.0,Katherine Jenkins,27.5,0.5
+14,8,Roshon Fegan,28.0,Maria Menounos,26.5,1.5
+14,9,Maria Menounos,29.5,Donald Driver,28.5,1.0
+14,9,Maria Menounos,29.5,Katherine Jenkins,28.0,1.5
+14,9,Maria Menounos,29.5,William Levy,29.0,0.5
+15,2,Joey Fatone,22.5,Bristol Palin,18.0,4.5
+15,2,Joey Fatone,22.5,Kelly Monaco,22.0,0.5
+15,2,Joey Fatone,22.5,Kirstie Alley,21.0,1.5
+15,3,Drew Lachey,24.0,Bristol Palin,22.5,1.5
+15,3,Helio Castroneves,25.5,Bristol Palin,22.5,3.0
+15,3,Helio Castroneves,25.5,Emmitt Smith,25.0,0.5
+15,3,Helio Castroneves,25.5,Kirstie Alley,24.0,1.5
+15,4,Bristol Palin,32.0,Kirstie Alley,30.0,2.0
+15,6,Sabrina Bryan,30.0,Emmitt Smith,26.5,3.5
+15,6,Sabrina Bryan,30.0,Gilles Marini,27.5,2.5
+15,6,Sabrina Bryan,30.0,Kelly Monaco,27.0,3.0
+15,6,Sabrina Bryan,30.0,Kirstie Alley,27.5,2.5
+15,6,Sabrina Bryan,30.0,Melissa Rycroft,29.5,0.5
+15,6,Sabrina Bryan,30.0,Shawn Johnson,28.0,2.0
+15,8,Gilles Marini,29.2777,Emmitt Smith,29.0554,0.2223000000000006
+15,8,Gilles Marini,29.2777,Kelly Monaco,28.3333,0.9443999999999981
+15,8,Gilles Marini,29.2777,Shawn Johnson,27.8333,1.4443999999999981
+15,9,Apolo Anton Ohno,28.611,Kelly Monaco,27.110999999999997,1.5000000000000036
+16,10,Alexandra Raisman,29.0,Jacoby Jones,27.999899999999997,1.0001000000000033
+17,2,Keyshawn Johnson,18.0,Bill Nye,17.0,1.0
+17,5,Christina Milian,28.0,Amber Riley,26.0,2.0
+17,5,Christina Milian,28.0,Bill Engvall,24.0,4.0
+17,5,Christina Milian,28.0,Brant Daugherty,27.0,1.0
+17,5,Christina Milian,28.0,Elizabeth Berkley Lauren,26.0,2.0
+17,5,Christina Milian,28.0,Jack Osbourne,27.0,1.0
+17,5,Christina Milian,28.0,Leah Remini,22.0,6.0
+17,5,Christina Milian,28.0,"Nicole ""Snooki"" Polizzi",27.0,1.0
+17,7,"Nicole ""Snooki"" Polizzi",27.0,Bill Engvall,25.0,2.0
+17,7,"Nicole ""Snooki"" Polizzi",27.0,Leah Remini,26.5,0.5
+17,8,Brant Daugherty,27.0,Bill Engvall,24.0,3.0
+17,8,Brant Daugherty,27.0,Elizabeth Berkley Lauren,25.0,2.0
+17,9,Elizabeth Berkley Lauren,28.0,Amber Riley,25.5,2.5
+17,9,Elizabeth Berkley Lauren,28.0,Bill Engvall,21.0,7.0
+17,9,Elizabeth Berkley Lauren,28.0,Jack Osbourne,27.0,1.0
+17,9,Elizabeth Berkley Lauren,28.0,Leah Remini,27.0,1.0
+17,10,Leah Remini,32.5,Bill Engvall,30.0,2.5
+18,2,Sean Avery,21.0,Billy Dee Williams,15.0,6.0
+18,5,Cody Simpson,34.0,Drew Carey,28.0,6.0
+18,8,Danica McKellar,38.0,Candace Cameron Bure,36.0,2.0
+18,8,Danica McKellar,38.0,James Maslow,36.0,2.0
+18,8,Danica McKellar,38.0,Meryl Davis,36.0,2.0
+18,9,Charlie White,38.0,Candace Cameron Bure,36.0,2.0
+18,10,James Maslow,29.0,Candace Cameron Bure,25.9998,3.0001999999999995
+19,1,Lolo Jones,22.0,Betsey Johnson,20.0,2.0
+19,2,Tavis Smiley,28.0,Michael Waltrip,24.0,4.0
+19,4,Betsey Johnson,29.0,Jonathan Bennett,24.0,5.0
+19,4,Betsey Johnson,29.0,Michael Waltrip,25.0,4.0
+19,4,Betsey Johnson,29.0,Tommy Chong,28.0,1.0
+19,6,Jonathan Bennett,32.0,Antonio Sabato Jr.,28.0,4.0
+19,6,Jonathan Bennett,32.0,Michael Waltrip,30.0,2.0
+19,6,Jonathan Bennett,32.0,Tommy Chong,28.0,4.0
+19,7,Antonio Sabato Jr.,29.5,Michael Waltrip,28.0,1.5
+19,9,Lea Thompson,35.0,Tommy Chong,28.5,6.5
+20,2,Redfoo,31.0,Charlotte McKinney,26.0,5.0
+20,2,Redfoo,31.0,Chris Soules,21.0,10.0
+20,2,Redfoo,31.0,Michael Sam,28.0,3.0
+20,2,Redfoo,31.0,Noah Galloway,27.0,4.0
+20,2,Redfoo,31.0,Patti LaBelle,28.0,3.0
+20,2,Redfoo,31.0,Robert Herjavec,28.0,3.0
+20,2,Redfoo,31.0,Suzanne Somers,28.0,3.0
+20,4,Michael Sam,30.0,Chris Soules,27.0,3.0
+20,4,Michael Sam,30.0,Suzanne Somers,28.0,2.0
+20,5,Suzanne Somers,28.0,Chris Soules,27.0,1.0
+20,5,Suzanne Somers,28.0,Patti LaBelle,27.0,1.0
+20,5,Suzanne Somers,28.0,Robert Herjavec,24.0,4.0
+20,6,Patti LaBelle,34.0,Robert Herjavec,33.5,0.5
+20,7,Willow Shields,39.0,Chris Soules,31.0,8.0
+20,7,Willow Shields,39.0,Noah Galloway,38.0,1.0
+20,7,Willow Shields,39.0,Riker Lynch,37.0,2.0
+20,7,Willow Shields,39.0,Robert Herjavec,31.0,8.0
+20,7,Willow Shields,39.0,Rumer Willis,37.0,2.0
+20,8,Chris Soules,32.0,Noah Galloway,31.5,0.5
+20,9,Nastia Liukin,40.0,Noah Galloway,38.0,2.0
+20,9,Nastia Liukin,40.0,Rumer Willis,39.0,1.0
+21,2,Victor Espinoza,18.5,Gary Busey,16.5,2.0
+21,7,Hayes Grier,28.0,Alek Skarlatos,26.5,1.5
+21,7,Hayes Grier,28.0,Alexa PenaVega,27.5,0.5
+21,7,Hayes Grier,28.0,Nick Carter,27.0,1.0
+21,7,Hayes Grier,28.0,Tamar Braxton,27.0,1.0
+21,9,Alexa PenaVega,30.0,Alek Skarlatos,25.5,4.5
+21,9,Alexa PenaVega,30.0,Carlos PenaVega,27.0,3.0
+21,9,Alexa PenaVega,30.0,Nick Carter,27.5,2.5
+21,9,Alexa PenaVega,30.0,Tamar Braxton,24.5,5.5
+21,11,Carlos PenaVega,30.0,Alek Skarlatos,27.999899999999997,2.0001000000000033
+22,4,Marla Maples,28.0,Doug Flutie,24.0,4.0
+22,4,Marla Maples,28.0,Jodie Sweetin,27.0,1.0
+22,7,Kim Fields,26.0,Jodie Sweetin,25.5,0.5
+22,7,Von Miller,26.0,Jodie Sweetin,25.5,0.5
+22,8,Jodie Sweetin,30.0,Antonio Brown,27.0,3.0
+22,8,Jodie Sweetin,30.0,Nyle DiMarco,29.0,1.0
+22,8,Jodie Sweetin,30.0,Paige VanZant,28.0,2.0
+22,8,Jodie Sweetin,30.0,Wanya Morris,25.0,5.0
+22,9,Wanya Morris,30.0,Ginger Zee,28.0,2.0
+22,9,Wanya Morris,30.0,Nyle DiMarco,28.5,1.5
+22,9,Wanya Morris,30.0,Paige VanZant,29.5,0.5
+23,2,Jake T. Austin,24.0,Rick Perry,22.0,2.0
+23,4,Vanilla Ice,23.0,Marilu Henner,21.0,2.0
+23,4,Vanilla Ice,23.0,Ryan Lochte,22.0,1.0
+23,7,Maureen McCormick,33.0,Marilu Henner,32.0,1.0
+23,8,Ryan Lochte,26.0,Marilu Henner,23.0,3.0
+23,8,Ryan Lochte,26.0,Terra Jole,24.0,2.0
+23,10,Terra Jole,30.0,Calvin Johnson Jr.,28.0,2.0
+23,10,Terra Jole,30.0,James Hinchcliffe,29.5,0.5
+23,10,Terra Jole,30.0,Jana Kramer,29.0,1.0
+24,5,Erika Jayne,32.0,Bonner Bolton,30.0,2.0
+24,5,Erika Jayne,32.0,David Ross,29.0,3.0
+24,6,Heather Morris,37.0,Bonner Bolton,31.5,5.5
+24,6,Heather Morris,37.0,David Ross,31.0,6.0
+24,6,Heather Morris,37.0,Nancy Kerrigan,33.5,3.5
+24,6,Heather Morris,37.0,Nick Viall,30.5,6.5
+24,6,Heather Morris,37.0,Normani,36.0,1.0
+24,6,Heather Morris,37.0,Rashad Jennings,35.0,2.0
+24,6,Heather Morris,37.0,Simone Biles,34.5,2.5
+24,7,Nancy Kerrigan,36.0,Bonner Bolton,31.0,5.0
+24,7,Nancy Kerrigan,36.0,David Ross,32.0,4.0
+24,7,Nick Viall,34.0,Bonner Bolton,31.0,3.0
+24,7,Nick Viall,34.0,David Ross,32.0,2.0
+24,9,Simone Biles,40.0,David Ross,35.0,5.0
+24,9,Simone Biles,40.0,Normani,38.0,2.0
+24,9,Simone Biles,40.0,Rashad Jennings,38.5,1.5
+25,2,Debbie Gibson,20.5,Derek Fisher,19.0,1.5
+25,2,Debbie Gibson,20.5,Nick Lachey,19.0,1.5
+25,2,Debbie Gibson,20.5,Nikki Bella,19.5,1.0
+25,2,Debbie Gibson,20.5,Terrell Owens,19.5,1.0
+25,4,Derek Fisher,23.0,Nick Lachey,22.0,1.0
+25,5,Sasha Pieterse,24.0,Nick Lachey,22.0,2.0
+25,7,Vanessa Lachey,27.0,Lindsey Stirling,25.5,1.5
+25,7,Vanessa Lachey,27.0,Terrell Owens,24.5,2.5
+25,8,Terrell Owens,25.5,Drew Scott,23.5,2.0
+25,8,Terrell Owens,25.5,Victoria Arlen,24.0,1.5
+25,9,Victoria Arlen,28.0,Drew Scott,24.0,4.0
+25,9,Victoria Arlen,28.0,Frankie Muniz,25.5,2.5
+26,1,Jamie Anderson,19.0,Kareem Abdul-Jabbar,17.0,2.0
+26,1,Johnny Damon,18.0,Kareem Abdul-Jabbar,17.0,1.0
+26,2,Arike Ogunbowale,35.0,Chris Mazdzer,33.0,2.0
+26,2,Arike Ogunbowale,35.0,Jennie Finch Daigle,31.5,3.5
+26,2,Arike Ogunbowale,35.0,Josh Norman,31.5,3.5
+26,2,Arike Ogunbowale,35.0,Tonya Harding,33.0,2.0
+27,1,Nikki Glaser,17.5,Joe Amabile,14.0,3.5
+27,2,Danelle Umstead,18.5,Joe Amabile,17.5,1.0
+27,3,Nancy McKeon,22.0,Joe Amabile,18.0,4.0
+27,3,Nancy McKeon,22.0,John Schneider,21.0,1.0
+27,4,Tinashe,26.0,Alexis Ren,25.0,1.0
+27,4,Tinashe,26.0,Bobby Bones,20.0,6.0
+27,4,Tinashe,26.0,DeMarcus Ware,22.0,4.0
+27,4,Tinashe,26.0,Evanna Lynch,24.0,2.0
+27,4,Tinashe,26.0,Joe Amabile,15.0,11.0
+27,4,Tinashe,26.0,John Schneider,21.0,5.0
+27,4,Tinashe,26.0,Juan Pablo Di Pace,24.0,2.0
+27,6,Mary Lou Retton,24.0,Bobby Bones,22.0,2.0
+27,6,Mary Lou Retton,24.0,Joe Amabile,22.0,2.0
+27,6,Mary Lou Retton,24.0,John Schneider,19.0,5.0
+27,7,DeMarcus Ware,26.5,Joe Amabile,23.5,3.0
+27,7,John Schneider,27.0,Bobby Bones,26.5,0.5
+27,7,John Schneider,27.0,Joe Amabile,23.5,3.5
+27,8,Joe Amabile,23.0,Bobby Bones,22.5,0.5
+27,8,Juan Pablo Di Pace,30.0,Alexis Ren,29.0,1.0
+27,8,Juan Pablo Di Pace,30.0,Bobby Bones,22.5,7.5
+27,8,Juan Pablo Di Pace,30.0,Evanna Lynch,29.0,1.0
+27,8,Juan Pablo Di Pace,30.0,Milo Manheim,27.5,2.5
+28,2,Mary Wilson,15.0,Lamar Odom,12.0,3.0
+28,6,Sailor Brinkley-Cook,27.0,Ally Brooke,25.0,2.0
+28,6,Sailor Brinkley-Cook,27.0,Hannah Brown,24.0,3.0
+28,6,Sailor Brinkley-Cook,27.0,Karamo Brown,25.0,2.0
+28,6,Sailor Brinkley-Cook,27.0,Kel Mitchell,26.0,1.0
+28,6,Sailor Brinkley-Cook,27.0,Lauren Alaina,26.0,1.0
+28,6,Sailor Brinkley-Cook,27.0,Sean Spicer,21.0,6.0
+28,7,Karamo Brown,24.5,Kate Flannery,24.0,0.5
+28,7,Karamo Brown,24.5,Sean Spicer,21.0,3.5
+28,8,Kate Flannery,25.9998,Lauren Alaina,24.0,1.9998000000000005
+28,8,Kate Flannery,25.9998,Sean Spicer,20.0,5.9998000000000005
+29,6,Veron Davis,21.0,Skai Jackson,18.0,3.0
+29,8,Chrishell Stause,27.0,Nelly,24.0,3.0
+29,8,Chrishell Stause,27.0,Skai Jackson,26.9998,0.00019999999999953388
+29,9,AJ McLean,24.9998,Nelly,24.0,0.9998000000000005
+29,10,Johnny Weir,28.5,Nelly,28.0,0.5
+29,10,Skai Jackson,28.5,Nelly,28.0,0.5
+30,3,Christine Chiu,21.0,Brian Austin Green,19.0,2.0
+30,3,Christine Chiu,21.0,Cody Rigsby,18.0,3.0
+30,3,Christine Chiu,21.0,Iman Shumpert,19.0,2.0
+30,3,Christine Chiu,21.0,Jimmie Allen,20.0,1.0
+30,3,Christine Chiu,21.0,Matt James,20.0,1.0
+30,5,Melanie C,36.0,Cody Rigsby,32.0,4.0
+30,5,Melanie C,36.0,Iman Shumpert,28.0,8.0
+30,5,Melanie C,36.0,Jimmie Allen,34.0,2.0
+30,5,Melanie C,36.0,"Mike ""The Miz"" Mizanin",32.0,4.0
+30,8,Olivia Jade,36.0,Iman Shumpert,35.0,1.0
+30,9,Melora Hardin,36.0,Cody Rigsby,35.5,0.5
+30,9,Suni Lee,37.5,Cody Rigsby,35.5,2.0
+31,1,Jason Lewis,18.0,Vinny Guadagnino,17.0,1.0
+31,2,Teresa Giudice,23.0,Cheryl Ladd,21.0,2.0
+31,3,Cheryl Ladd,24.0,Vinny Guadagnino,23.0,1.0
+31,5,Joseph Baena,35.0,Daniel Durant,33.5,1.5
+31,5,Joseph Baena,35.0,Vinny Guadagnino,31.0,4.0
+31,6,Jessie James Decker,32.0,Vinny Guadagnino,28.0,4.0
+31,7,Jordin Sparks,34.5,Vinny Guadagnino,31.5,3.0
+32,2,Jamie Lynn Spears,16.0,Adrian Peterson,15.0,1.0
+32,2,Jamie Lynn Spears,16.0,Barry Williams,15.0,1.0
+32,2,Jamie Lynn Spears,16.0,Harry Jowsey,15.0,1.0
+32,2,Jamie Lynn Spears,16.0,Mauricio Umansky,12.0,4.0
+32,4,Adrian Peterson,21.0,Alyson Hannigan,18.0,3.0
+32,4,Adrian Peterson,21.0,Barry Williams,18.0,3.0
+32,4,Adrian Peterson,21.0,Mauricio Umansky,19.0,2.0
+32,5,Mira Sorvino,22.0,Alyson Hannigan,21.0,1.0
+32,5,Mira Sorvino,22.0,Harry Jowsey,18.0,4.0
+32,6,Mauricio Umansky,33.0,Alyson Hannigan,31.0,2.0
+32,6,Mauricio Umansky,33.0,Barry Williams,32.0,1.0
+32,6,Mauricio Umansky,33.0,Harry Jowsey,29.0,4.0
+32,7,Lele Pons,36.5,Alyson Hannigan,35.0,1.5
+32,7,Lele Pons,36.5,Barry Williams,32.5,4.0
+32,7,Lele Pons,36.5,Charity Lawson,36.0,0.5
+32,7,Lele Pons,36.5,Harry Jowsey,32.0,4.5
+32,7,Lele Pons,36.5,Jason Mraz,36.0,0.5
+32,8,Barry Williams,35.0,Harry Jowsey,28.0,7.0
+32,8,Barry Williams,35.0,Jason Mraz,33.0,2.0
+33,2,Anna Delvey,17.0,Eric Roberts,15.0,2.0
+33,2,Anna Delvey,17.0,Reginald VelJohnson,15.0,2.0
+33,2,Tori Spelling,19.0,Eric Roberts,15.0,4.0
+33,2,Tori Spelling,19.0,Reginald VelJohnson,15.0,4.0
+33,4,Brooks Nader,32.0,Dwight Howard ,29.0,3.0
+33,6,Jenn Tran,31.0,Danny Amendola,28.0,3.0
+33,6,Jenn Tran,31.0,Ilona Maher,24.0,7.0
+33,6,Jenn Tran,31.0,Stephen Nedoroscik,28.0,3.0
+34,2,Baron Davis,18.0,Andy Richter,16.0,2.0
+34,4,Hilaria Baldwin,23.0,Andy Richter,18.0,5.0
+34,4,Hilaria Baldwin,23.0,Danielle Fishel,21.0,2.0
+34,4,Hilaria Baldwin,23.0,Robert Irwin,22.0,1.0
+34,4,Hilaria Baldwin,23.0,Scott Hoying,21.0,2.0
+34,6,Scott Hoying,28.0,Andy Richter,27.0,1.0
+34,7,Jen Affleck,34.0,Andy Richter,29.0,5.0
+34,7,Jen Affleck,34.0,Elaine Hendrix,32.0,2.0
+34,8,Danielle Fishel,37.0,Andy Richter,34.0,3.0
+34,10,Whitney Leavitt,29.0,Dylan Efron,27.5,1.5
+34,10,Whitney Leavitt,29.0,Elaine Hendrix,28.5,0.5
+34,10,Whitney Leavitt,29.0,Jordan Chiles,28.5,0.5

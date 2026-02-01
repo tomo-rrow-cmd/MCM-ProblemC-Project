@@ -1,0 +1,6 @@
+=== MCM V6 DATA VERIFICATION REPORT ===
+Total Rows: 4199
+Active Rows: 2777
+Seasons: 34
+Note: Judge Ranks calculated using method='min' (1224 ranking).
+Note: Partner Quality features successfully engineered.

@@ -1,0 +1,6 @@
+2026-02-01 10:21:33,066 - [INFO] - 已执行双人淘汰排名对齐 (Double Elimination Fix)
+2026-02-01 10:21:34,353 - [INFO] - 已生成升级版数据: mcm_data_v7_fusion\cleaned_data.csv
+2026-02-01 10:21:34,974 - [INFO] - 生成兼容报告: mcm_data_v7_fusion\data_verification_report.txt
+2026-02-01 10:21:34,974 - [INFO] - 生成分布图: mcm_data_v7_fusion\score_distribution_check.png
+2026-02-01 10:21:34,974 - [INFO] - === V7 Fusion Complete ===
+2026-02-01 10:21:34,974 - [INFO] - 你可以直接用新的 cleaned_data.csv 替换旧文件，Q1代码可直接运行！
